@@ -1,4 +1,5 @@
 # 🧠 Venda de Capacho de Fibra de Coco
+> Skill para geração de copy de vendas de capachos em diferentes canais.
 
 ## 📌 Descrição
 Cria textos para vender capachos destacando limpeza, estética e durabilidade.
