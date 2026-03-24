@@ -6,12 +6,12 @@ Cria textos para vender capachos destacando limpeza, estética e durabilidade.
 ## 🎯 Objetivo
 Gerar mensagens que aumentem as vendas do produto.
 
-## ⚙️ Entradas
+## ⚙️ Entradas necessárias
 - Público  
 - Preço  
 - Canal  
 
-## 📤 Saídas
+## 📤 Saídas esperadas
 Texto de venda com:
 - Gancho  
 - Benefícios  
